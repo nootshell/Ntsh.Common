@@ -1,0 +1,2 @@
+# Ntsh.Common
+Common stuff.

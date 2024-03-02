@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="meta/csproj/common.csproj" />
+	<Import Project="meta/csproj/nuget.csproj" />
+
+	<PropertyGroup>
+		<PackageId>Ntsh.Common</PackageId>
+		<Title>Ntsh.Common</Title>
+		<Description>Common stuff.</Description>
+		<Version>0.0.1</Version>
+	</PropertyGroup>
+
+</Project>
